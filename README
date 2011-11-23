@@ -1,0 +1,8 @@
+Simple flickr uploader with resume functionality. Give the directory that contains images. If interrupted in between or restated only new files will be uploaded.
+
+Dependencies
+===========
+
+easy_install flickrapi
+
+
