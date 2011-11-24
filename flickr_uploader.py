@@ -10,8 +10,10 @@ import traceback
 
 import flickrapi
 
-API_KEY = "a79b6008d579c4b6aa6a6cbedeb993cf"
-API_SECRET = "3fa49dbf8b90d3fc"
+# API Key. You can get it from http://www.flickr.com/services/apps/create/noncommercial/?
+API_KEY = ""
+# API Secret
+API_SECRET = ""
 IMAGE_EXTENSIONS = ["jpg","jpeg","bmp","gif","png","tif","tiff","mov","mpg","mpeg","mp4","avi","wmv","3g2","3gp","m4v","asf"]
 
 logger = logging.getLogger()

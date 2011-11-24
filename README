@@ -1,5 +1,11 @@
 Simple flickr uploader with resume functionality. Give the directory that contains images. If interrupted in between or restated only new files will be uploaded.
 
+Get API Key and API Secret from
+
+http://www.flickr.com/services/apps/create/noncommercial/?
+
+and use it in flickr_uploader.py file
+
 Dependencies
 ===========
 
